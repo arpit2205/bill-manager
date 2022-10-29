@@ -1,8 +1,8 @@
 # Bill Manager
-### Bright Money Coding Assessment
+Bright Money Coding Assessment
 
 ## Deployed URL (App preview)
-
+https://bill-manager-arpit2205.vercel.app/
 
 ## Description
 A web app to add, remove, edit and filter monthly bills, view total monthly expenses, setup monthly budgets and view the bills to be paid.
