@@ -1,5 +1,4 @@
-# Bill Manager
-Bright Money Coding Assessment
+# Expense Manager
 
 ## Deployed URL (App preview)
 https://bill-manager-arpit2205.vercel.app/
